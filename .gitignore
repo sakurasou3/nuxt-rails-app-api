@@ -28,3 +28,8 @@
 
 # original
 .DS_Store
+/.ash_history
+/.irb_history
+.dotnet
+.vscode-server
+.gitconfig
